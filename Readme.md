@@ -4,3 +4,9 @@
 '''bash
 git init
 '''
+### Now add all the files to local repo and take a snapshot 
+
+```bash
+git add .
+fit commit -m "Message_name"
+```
